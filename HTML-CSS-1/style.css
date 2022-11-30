@@ -1,0 +1,94 @@
+table{
+  border-color: lightgray;
+}
+
+img {
+  float: right;
+}
+
+p {
+  color: whitesmoke;
+}
+
+h1 {
+  color: whitesmoke;
+}
+
+h2{
+  color: whitesmoke
+}
+
+body{
+  background-color: black;
+}
+
+#rood {
+  padding: 5px;
+  background-color: red;
+
+}
+
+#rood a:hover {
+  padding: 5px;
+  font-size: 25px;
+  color: black;
+  background-color: red;
+}
+
+#groen{
+  padding: 5px;
+  background-color: greenyellow;
+}
+
+#groen a:hover {
+  padding: 5px;
+  font-size: 25px;
+  color: black;
+  background-color: greenyellow;
+}
+
+#blauw{
+  padding: 5px;
+  background-color: rgb(0, 183, 255);
+}
+
+#blauw a:hover {
+  padding: 5px;
+  font-size: 25px;
+  color: black;
+  background-color: rgb(0,183,255);
+}
+
+#geel{
+  padding: 5px;
+  background-color: yellow
+}
+
+#geel a:hover {
+  padding: 5px;
+  font-size: 25px;
+  color: black;
+  background-color: yellow;
+}
+
+li {
+  display: inline;
+  float: left;
+}
+
+
+
+#mening a {
+  background-color: black;
+  color: blue;
+  text-decoration: none;
+  display: block;
+  padding: 15px;
+  font-size: 12px;
+}
+
+#mening a:hover {
+  font-size: 20px;
+  color: black;
+  background-color: white;
+}
